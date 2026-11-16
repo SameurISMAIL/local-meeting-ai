@@ -1,0 +1,6 @@
+{
+  "name": "Cadence — Local Meeting Transcription",
+  "description": "A local-first meeting transcription prototype using faster-whisper. Speaker identification, summaries, chat, and camera-based emotion or attention analysis are not available in the current stage.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["LOCAL_WHISPER_TRANSCRIPTION"]
+}
